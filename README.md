@@ -1,7 +1,7 @@
 # SmartPetDoor
 A smart pet door.
 
-A project I made in my junior year of highschool to controll when to let my cat "Mittens" into the house or not. I live near a forest and my cat is an avid hunter who enjoyed to bring his catch inside the house to show off through the wooden pet door we installed into a basement window. This act was not appreaciated by my mom and so I thought of the idea to make my Smart Pet Door.
+A project I made in my junior year of highschool to controll when to let my cat "Mittens" into the house. I live near a forest and my cat is an avid hunter who enjoyed to bring his catch inside the house through a wooden pet door I hand made and installed. In order to stop my cat from bringing the dead animals inside the house I decided to make a "Smart Pet Door" to manage my cats ability to enter the house.
 
 I decided to modify our existing pet door to make it possible to controll what gets inside the house. 
 
