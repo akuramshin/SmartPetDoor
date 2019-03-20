@@ -7,7 +7,7 @@ I decided to modify our existing pet door to make it possible to controll what g
 
 - I installed a solenoid lock on one side to block entrance inside the house when the solenoid is in its passive position.
 - The solenoid needed more power than the pi could supply, so a seperate power source (12V power adapter plugged into the wall) was used along side a relay to controll the solenoid (on or off).
-- I installed a small motion detector pointing to the outside right beside the entrance to detect if my cat wants to go inside the house.
+- I installed a small PIR motion sensor pointing to the outside right beside the entrance to detect if my cat wants to go inside the house.
 - I also installed a cheap webcam from dollarama pointing about at the spot where my cat would be if he wanted to get inside the house through the pet door.
 - As the brains of the cat door I installed the Raspberry Pi 1 with a wifi dongle stick.
 
